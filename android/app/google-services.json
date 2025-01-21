@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "976841905463",
+    "firebase_url": "https://onlinefirebase-23319-default-rtdb.firebaseio.com",
+    "project_id": "onlinefirebase-23319",
+    "storage_bucket": "onlinefirebase-23319.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976841905463:android:e2fe7132b87b11ee3df6b2",
+        "android_client_info": {
+          "package_name": "com.example.onlineappgasira"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7hNHBkntaiAvNos6tp_tWcF4fAgI8Fy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
